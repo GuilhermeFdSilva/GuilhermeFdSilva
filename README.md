@@ -1,5 +1,5 @@
 ### Olá👋 Bem vindos ao meu perfil do GitHub
-Como estão? Meu nome é Guilherme e estou começaondo a me aventurar na área da programação,
+Como estão? Meu nome é Guilherme e estou começando a me aventurar na área da programação,
 e aqui encontrei uma paixão, solucionar desafios e desenvolver meu conhecimento.
 <h3 align="left">Me sigam também nas redes sociais 👌</h3>
 <p align="left">
