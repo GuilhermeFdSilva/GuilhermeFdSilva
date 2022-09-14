@@ -8,4 +8,3 @@ e aqui encontrei uma paixão, solucionar desafios e desenvolver meu conhecimento
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFdSilva&theme=radical)
 <p align="left">
-  
