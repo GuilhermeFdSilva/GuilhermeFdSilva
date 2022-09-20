@@ -7,6 +7,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-fran%C3%A7a-4756a8155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%C3%A9-henrique-silva-9aa371156/" height="30" width="40" />
   </a>
+  <br><br>
 </p>
 
 <div>
