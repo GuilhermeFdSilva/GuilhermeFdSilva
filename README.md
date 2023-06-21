@@ -1,6 +1,6 @@
-<h1 align="center">Olá!👋 Bem vindos ao meu perfil do GitHub</h1>
+<h1>Olá!👋 Bem vindos ao meu perfil</h1>
 
-<h3 align="center">
+<h3>
   Aqui vocês vão encontrar meus projetos de estudos e pesquisas.<br>
 </h3>
 <h4 align="center">  
