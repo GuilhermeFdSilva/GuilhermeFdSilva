@@ -23,7 +23,7 @@
 
 <div style="display: inline_block">
   <a href="https://www.typescriptlang.org/docs/">
-    <img src= "https://guilhermefdsilva.github.io/read-db-myPortfolio/stick-typescript.svg" alt="TypeScript">
+    <img src= "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-typescript.svg" alt="TypeScript">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="center" alt="JS" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
