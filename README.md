@@ -1,20 +1,18 @@
-# Olá! Bem-vindo ao meu perfil! 👋🏽
+# Hello! Welcome to my profile! 👋🏽
 
-<img src="https://github.com/GuilhermeFdSilva/GuilhermeFdSilva/assets/106849473/1f54d685-dae4-480e-986e-e777ee3a9dc6" height="160em">
+### My name _Guilherme França_ and I'm trying to become a FullStack Developer! 👨🏽‍💻
 
-### Meu nome é _Guilherme França_ e sou desenvolvedor Full Stack! 👨🏽‍💻
+**Currently**:
+* Working as an IT Instructor at [Instituto da Oportunidade Social](https://ios.org.br), teaching HTML, CSS, and JavaScript 👨🏽‍🏫;
+* Finishing the last semester of my Systems Analysis and Development degree 🎓;
+* Developing personal projects to practice different stacks 🤓.
 
-**Atualmente**:
-* Cursando faculdade de Analise e Desenvolvimento de Sistemas 👨🏽‍🏫;
-* Desenvolvendo projetos para treino de stacks 🤓;
-* Em busca de oportunidades de trabalho Freelance 🚀.
+I've been passionate about programming since the moment I discovered it — do you believe in love at first code? 👽<br>
+My very first programming language was Java 😍, and to this day I’ve never stopped loving it. 👀
 
-Sou apaixonado pela programação desde que a conheci, acredita em amor à primeiro código? 👽<br>
-Minha primeira linguagem de programação foi o Java 😍, e até hoje nunca deixei de gostar dele. 👀
+My main stacks are:
 
-Minhas principais stacks são:
-
-#### Linguagens
+#### Languages
 
 <div style="display: inline_block">
   <a href="https://docs.oracle.com/en/java/">
@@ -67,7 +65,7 @@ Minhas principais stacks são:
 
 ##
 
-### Minhas Redes Sociais 
+### My Social Media 
 
 <div style="display: inline_block>
   <a href="mailto:francaguilherme27@gmail.com">
