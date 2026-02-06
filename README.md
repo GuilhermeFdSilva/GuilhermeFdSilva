@@ -80,9 +80,4 @@ My main stacks are:
     
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFdSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true." height="160em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFdSilva&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true." height="160em">
-</div>
-
 ![Snake](https://github.com/GuilhermeFdSilva/GuilhermeFdSilva/blob/output/github-contribution-grid-snake-dark.svg)
