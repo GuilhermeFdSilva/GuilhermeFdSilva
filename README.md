@@ -1,75 +1,55 @@
-# Hello, I'm Guilherme França 👋
+# Hello, I'm Guilherme França
 
-## Backend Java | Spring Boot | Angular | Fullstack Developer
+### Backend Java | Spring Boot | Angular | Fullstack Developer
 
 I'm a Software Development enthusiast focused on building solid backend applications with **Java and Spring Boot**, and modern front-end interfaces using **Angular**.
 
 Currently:
 
-- 👨🏽‍🏫 Working as an IT Instructor at Instituto da Oportunidade Social, teaching **Java, HTML, CSS, JavaScript, Angular and Git**
-- 🎓 Graduated in Systems Analysis and Development
-- 🚀 Building personal projects with **REST APIs, relational databases (MySQL), and fullstack applications**
-- 🔄 Practicing version control daily with **Git and GitHub**
-- 🐳 Exploring **DevOps fundamentals and Docker**
+- Working as an IT Instructor at Instituto da Oportunidade Social, teaching **Java, HTML, CSS, JavaScript, Angular and Git**
+- Graduated in Systems Analysis and Development
+- Building personal projects with **REST APIs, relational databases (MySQL), and fullstack applications**
+- Practicing version control daily with **Git and GitHub**
+- Exploring **DevOps fundamentals and Docker**
 
----
+## Tech Stack
 
-My main stacks are:
+### Backend
 
-#### Languages
-
-<div style="display: inline_block">
-  <a href="https://docs.oracle.com/en/java/">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-java.svg" alt="Java" height="28px" align="center">
-  </a>
-  <a href="https://www.typescriptlang.org/docs/">
-    <img src= "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-typescript.svg" alt="TypeScript" height="28px" align="center">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-javascript.svg" alt="JavaScript" height="28px" align="center">
-  </a>
-  <a href="https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-c.svg" alt="C" height="28px" width="60px" align="center">
-  </a>
-  <a href="https://wiki.python.org.br/PythonBrasil">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-python.svg" alt="Python" height="28px" align="center">
-  </a>
-<div/>
-  
-#### Front-End Development
-
-<div style="display: inline_block">
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-angular.svg" alt="Angular" height="28px" align="center">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-html.svg" alt="HTML" height="28px" align="center">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-css.svg" alt="CSS" height="28px" align="center">
-  </a>
-  <a href="https://sass-lang.com/documentation/">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-sass.svg" alt="SASS" height="28px" align="center">
-  </a>
-  <a href="https://getbootstrap.com.br/docs/4.1/getting-started/introduction/">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-bootstrap.svg" alt="Bootstrap" height="28px" align="center">
-  </a>
-<div/>
-
-#### Database
-
-<div style="display: inline_block>
-  <a href="https://dev.mysql.com/doc/">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mysql.svg" alt="MySQL" height="28px" align="center">
-  </a>
-  <a href="https://www.mongodb.com/docs/">
-    <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mongodb.svg" alt="MongoDB" height="28px" align="center">
-  </a>
+<div style="display: inline-block">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-java.svg" alt="Java" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-springboot.svg" alt="SpringBoot" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mysql.svg" alt="MySQL" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mongodb.svg" alt="MongoDB" height="28px" align="center">
 </div>
 
-##
+### Frontend
 
-### My Social Media 
+<div style="display: inline_block">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-angular.svg" alt="Angular" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-typescript.svg" alt="TypeScript" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-javascript.svg" alt="JavaScript" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-html.svg" alt="HTML" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-css.svg" alt="CSS" height="28px" align="center">
+<div/>
+
+### Tools & Practices
+
+<div style="display: inline_block">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-git.svg" alt="Git" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-github.svg" alt="GitHub" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-docker.svg" alt="Docker" height="28px" align="center">
+  <img src="https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-linux.svg" alt="Linux" height="28px" align="center">
+<div/>
+
+## About me
+
+I fell in love with programming the first time I wrote code — yes, love at first code exists.
+
+Java was my first language, and it still feels like home.  
+I'm constantly improving my skills, focusing on clean code, architecture fundamentals, and real-world backend development.
+
+## Let's connect on LinkedIn!
 
 <div style="display: inline_block>
   <a href="mailto:francaguilherme27@gmail.com">
