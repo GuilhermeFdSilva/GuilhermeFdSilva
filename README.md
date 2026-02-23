@@ -1,14 +1,18 @@
-# Hello! Welcome to my profile! 👋🏽
+# Hello, I'm Guilherme França 👋
 
-### My name _Guilherme França_ and I'm trying to become a FullStack Developer! 👨🏽‍💻
+## Backend Java | Spring Boot | Angular | Fullstack Developer
 
-**Currently**:
-* Working as an IT Instructor at [Instituto da Oportunidade Social](https://ios.org.br), teaching HTML, CSS, and JavaScript 👨🏽‍🏫;
-* Finishing the last semester of my Systems Analysis and Development degree 🎓;
-* Developing personal projects to practice different stacks 🤓.
+I'm a Software Development enthusiast focused on building solid backend applications with **Java and Spring Boot**, and modern front-end interfaces using **Angular**.
 
-I've been passionate about programming since the moment I discovered it — do you believe in love at first code? 👽<br>
-My very first programming language was Java 😍, and to this day I’ve never stopped loving it. 👀
+Currently:
+
+- 👨🏽‍🏫 Working as an IT Instructor at Instituto da Oportunidade Social, teaching **Java, HTML, CSS, JavaScript, Angular and Git**
+- 🎓 Graduated in Systems Analysis and Development
+- 🚀 Building personal projects with **REST APIs, relational databases (MySQL), and fullstack applications**
+- 🔄 Practicing version control daily with **Git and GitHub**
+- 🐳 Exploring **DevOps fundamentals and Docker**
+
+---
 
 My main stacks are:
 
@@ -75,9 +79,3 @@ My main stacks are:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="28px" align="center">
   <a/>
 <div/>
-
-##
-    
-<br>
-
-![Snake](https://github.com/GuilhermeFdSilva/GuilhermeFdSilva/blob/output/github-contribution-grid-snake-dark.svg)
